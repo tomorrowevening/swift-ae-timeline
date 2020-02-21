@@ -80,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				3BB227D723B7D9D50002C3EC /* Core */,
+				3B31729C23F9FAE5004AD935 /* Utils */,
 				3BB227CF23B7D92E0002C3EC /* swift_ae_timeline.h */,
 				3BB227D023B7D92E0002C3EC /* Info.plist */,
 			);
@@ -93,7 +94,6 @@
 				3BB227DF23B7DC9A0002C3EC /* Keyframe.swift */,
 				3BB227DD23B7DB960002C3EC /* Marker.swift */,
 				3BB227E323B7E4880002C3EC /* Timeline.swift */,
-				3B31729C23F9FAE5004AD935 /* Utils */,
 			);
 			path = Core;
 			sourceTree = "<group>";
