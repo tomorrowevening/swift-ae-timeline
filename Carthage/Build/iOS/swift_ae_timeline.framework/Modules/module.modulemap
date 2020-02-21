@@ -1,0 +1,11 @@
+framework module swift_ae_timeline {
+  umbrella header "swift_ae_timeline.h"
+
+  export *
+  module * { export * }
+}
+
+module swift_ae_timeline.Swift {
+    header "swift_ae_timeline-Swift.h"
+    requires objc
+}

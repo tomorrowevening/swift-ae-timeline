@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "bd778d73cd0e40e1264ce747a2b9bb6858794b3e",
+  "iOS" : [
+    {
+      "name" : "swift_ae_timeline",
+      "hash" : "173fd8ce0f5cccf4d79d4434360277bd7adce77c5dc55491b7967f51edeab54a",
+      "swiftToolchainVersion" : "5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+    }
+  ]
+}
